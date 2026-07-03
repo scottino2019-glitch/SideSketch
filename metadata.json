@@ -1,0 +1,6 @@
+{
+  "name": "Impara a Disegnare",
+  "description": "Un'applicazione interattiva con doppio canvas per imparare a disegnare fumetti, animali, personaggi e paesaggi tramite modelli guidati o caricando le proprie immagini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
